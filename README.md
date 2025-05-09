@@ -19,11 +19,6 @@ I am a **self-driven developer** with a strong foundation in both **frontend** a
 - Managed network infrastructure, backup systems, and disaster recovery solutions.  
 - Installed and maintained **state-of-the-art software systems** to improve the company's IT operations.
 
-### **System Administrator**  
-**Wholesome Kitchen** | March 2021 - June 2023  
-- Installed and managed a **restaurant management system** that handled employee status, daily sales, and inventory tracking.  
-- Ensured smooth operation of the system by troubleshooting and resolving technical issues.
-
 ## 🛠️ Skills
 
 ### **Backend Development**  
