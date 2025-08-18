@@ -128,25 +128,12 @@ Overseeing critical IT infrastructure and operations:
 ## 🎯 Featured Projects
 
 ### 🎬 Entertainment Content Management System
-*ZNAR Entertainment | 2025*
-- **Tech Stack**: React, Django REST Framework, PostgreSQL, Redis, AWS S3
-- **Features**: Multi-tenant architecture, real-time notifications, content scheduling
-- **Impact**: Streamlined content workflow for multiple entertainment channels
-- **Highlights**: Implemented caching strategy reducing API response time by 60%
-
-### 📊 Real-time Analytics Dashboard
-*Personal Project | 2024*
-- **Tech Stack**: Next.js, Node.js, MongoDB, WebSockets, Chart.js
-- **Features**: Live data visualization, custom metrics, user management
-- **Highlights**: Built real-time data pipeline processing 1M+ events daily
-
-### 🛒 E-commerce Platform
-*Freelance Project | 2024*
-- **Tech Stack**: Laravel, Vue.js, MySQL, Stripe API, Docker
-- **Features**: Inventory management, payment processing, order tracking
-- **Impact**: Increased client's online sales by 200% in first quarter
-
----
+🎬 Movie DB
+Ethiopian movie database app using a microservices architecture with separate services for movies, users, and talent acquisition.
+🛒 Hybrid POS
+Hybrid POS system with integrated sales, inventory, printing, and multi-department management.
+📱 Social Media
+Modern, feature-rich platform designed to connect people, share experiences, and foster meaningful online interactions.
 
 ## 🌱 Current Learning Journey
 
@@ -225,11 +212,6 @@ Overseeing critical IT infrastructure and operations:
 - "React Performance Optimization: Beyond the Basics"
 - "System Administration Best Practices for Developers"
 - "Docker in Production: Lessons Learned"
-
-### 🎤 Speaking & Mentoring
-- Tech meetup presentations on full-stack development
-- Mentoring junior developers in modern web technologies
-- Contributing to developer community discussions
 
 ---
 
