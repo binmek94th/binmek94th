@@ -186,7 +186,6 @@ Modern, feature-rich platform designed to connect people, share experiences, and
 - **DevOps Culture**: Infrastructure as code, automated testing, continuous deployment
 
 ### 🌟 Industry Trends I'm Following
-- **JAMstack Architecture**: Modern web development patterns
 - **Edge Computing**: Bringing computation closer to users
 - **Progressive Web Apps**: Bridging the gap between web and mobile
 - **Serverless Functions**: Event-driven, scalable backend solutions
