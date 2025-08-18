@@ -54,7 +54,8 @@ I'm currently focused on mastering **system design** and building scalable, mult
 I'm always open to **collaborating** on exciting projects, learning new things, and sharing knowledge with other tech enthusiasts. You can reach me via:
 
 - **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/nehemiahmekonne)  
-- **Email**: [binyamm83@gmail.com](mailto:binyamm83@gmail.com)
+- **Email**: [hello@nehemiahmekonnen.com](hello@nehemiahmekonnen.com)
+- **Website**: https://nehemiahmekonnens.com/
 
 ---
 
